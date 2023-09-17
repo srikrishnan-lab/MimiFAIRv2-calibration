@@ -1,6 +1,6 @@
-# MimiFAIRv2-calibration
+# Social Cost of H2
 
-This code contains code for a Bayesian calibration of MimiFAIRv2.
+This code contains code to estimate the social cost of hydrogen (SC-H2) with `MimiGIVE_FAIRv2`.
 
 ## Data reference
 
@@ -29,4 +29,4 @@ _Example_: Human, I.M. (2021). My output dataset name [Data set]. DataHub. https
 
 | Model | Version | Repository Link | DOI |
 |-------|---------|-----------------|-----|
-| MimiGIVE_FAIRv2 | version | [code repository](https://github.com/lrennels/MimiGIVE_FAIRv2) | link to DOI of release |
+| MimiFAIRv2 | version | [code repository](https://github.com/FrankErrickson/MimiFAIRv2.jl) | link to DOI of release |
